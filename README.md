@@ -1,5 +1,5 @@
 <h1 align="center">Hi! , I'm Daniel Valcarce</h1>
-<h3 align="center">A Developer from Spain</h3>
+<h3 align="center">A Developer from Spain, open to work</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Danielfernandezvalcarce&label=Profile%20views&color=0e75b6&style=plastic&color=brightgreen" alt="Danielfernandezvalcarce" /> </p>
 
@@ -8,13 +8,6 @@
 - 👔 I'm the founder & CEO of **Web Tek Innovations LLC**
 
 <a href="https://webtekinnovations.com/"> <img src="https://i.gyazo.com/41c16c7e94c81a8511ecb983475fbb10.png"> </a>
-
-- 💼 I’m working at **Plexus Tech** as an **Appian Programmer**
-
-<img src="https://i.gyazo.com/94f4bb88e182aa4549e266588eb75c21.png">
-
-- 🎓 Graduated in **Advanced Web Application Development**
-- US Equivalent to an **Software Associate's Degree**
 
 - 👨‍💻 How to contac me **[LinkedIn](https://www.linkedin.com/in/Daniel-F-Valcarce)**
 
